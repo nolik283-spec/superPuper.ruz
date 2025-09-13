@@ -1,0 +1,26 @@
+.card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid white;
+    padding: 30px;
+}
+
+.title {
+    max-width: 280px;
+}
+
+.x {
+    border-radius: 30px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.active {
+    opacity: 0.5;
+    pointer-events: none;
+    cursor: not-allowed;
+}

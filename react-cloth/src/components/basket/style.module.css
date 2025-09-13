@@ -1,0 +1,44 @@
+.container {
+    max-width: 820px;
+}
+
+.list {
+    composes: listReset from global
+}
+
+.div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.clear {
+    composes: buttonReset from global;
+    font-weight: 20px;
+}
+
+.basket {
+    font-family: Abel;
+    font-weight: 400;
+    font-size: 32px;
+}
+
+.active {
+    opacity: 0.5;
+    pointer-events: none;
+    cursor: not-allowed;
+}
+
+.group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 40px;
+}
+
+.type {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 90%;
+}

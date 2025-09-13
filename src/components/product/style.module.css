@@ -1,0 +1,52 @@
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+.active {
+    opacity: 0.5;
+    pointer-events: none;
+    user-select: none;
+}
+
+.nkar {
+    display: flex;
+    align-items: stretch;
+    align-items: flex-start;
+    gap: 16px;
+}
+
+.poqr {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.poqr li img {
+    width: 80px;
+    height: 81px;
+}
+
+.mec img {
+    width: 300px;
+    padding: 10px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.count{
+    display: flex;
+    gap: 300px;
+}
+.container {
+    display: flex;
+}
+.dirq{
+    display: flex;
+    flex-direction: column;
+    gap: 130px;
+   
+}

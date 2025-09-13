@@ -1,0 +1,28 @@
+.logo {
+    display: grid;
+    justify-content: start;
+    column-gap: 5px;
+    grid-template-areas:
+        "img b"
+        "img strong";
+}
+
+.img {
+    grid-area: img;
+}
+
+.b {
+    grid-area: b;
+    font-weight: 400;
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    text-transform: uppercase;
+
+}
+
+.strong {
+    grid-area: strong;
+    font-size: 16px;
+    color: #7b7b7b;
+    font-weight: 400;
+}

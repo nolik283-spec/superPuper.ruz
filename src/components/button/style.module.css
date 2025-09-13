@@ -1,0 +1,7 @@
+.dark {
+    composes: buttonDark from global;
+}
+
+.light {
+    composes: buttonLight from global;
+}
