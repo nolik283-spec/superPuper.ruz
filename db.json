@@ -99,20 +99,6 @@
   ],
   "basket": [
     {
-      "id": "826b",
-      "name": "Girls' Summer Comfort Tee - Casual",
-      "price": 10,
-      "imgUrl": [
-        "/item6.jpg",
-        "/item6.jpg",
-        "/item6.jpg",
-        "/item7.jpg"
-      ],
-      "type": "women",
-      "productId": "6",
-      "count": 3
-    },
-    {
       "id": "fcf9",
       "name": "Casual Anime Graphic Hooded Sweatshirt",
       "price": 15,
