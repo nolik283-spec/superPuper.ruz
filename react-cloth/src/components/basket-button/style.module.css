@@ -1,6 +1,0 @@
-.button {
-    composes: buttonDark from global;
-    display: flex;
-    align-items: center;
-    gap: 5px;
-}

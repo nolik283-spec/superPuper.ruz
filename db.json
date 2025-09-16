@@ -97,36 +97,7 @@
       "type": "women"
     }
   ],
-  "basket": [
-    {
-      "id": "fcf9",
-      "name": "Casual Anime Graphic Hooded Sweatshirt",
-      "price": 15,
-      "imgUrl": [
-        "/item3.jpg",
-        "/item3.jpg",
-        "/item3.jpg",
-        "/item4.jpg"
-      ],
-      "type": "men",
-      "productId": "3",
-      "count": 3
-    },
-    {
-      "id": "1b4a",
-      "name": "Men's Casual Black T-Shirt with Unique Anime",
-      "price": 10,
-      "imgUrl": [
-        "/item2.jpg",
-        "/item2.jpg",
-        "/item2.jpg",
-        "/item3.jpg"
-      ],
-      "type": "men",
-      "productId": "2",
-      "count": 5
-    }
-  ],
+  "basket": [],
   "order": [
     {
       "0": {
